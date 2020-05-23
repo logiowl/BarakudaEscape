@@ -1,0 +1,14 @@
+?xml version='1.0' encoding='utf-8'?>
+<widget id="ca.logiowl.barakudaescape" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
+	<name>Barakuda Escape</name>
+	<description>
+		Help Octo the Octupus to escape the Barakuda
+	</description>
+
+	<author email="info@logiowl.ca" href="https://logiowl.ca">
+	   Logi Owl Content Creator Canada Inc.
+	</author>
+
+	<preference name="phonegap-version" value="cli-6.0.0" />
+    <icon src="barakudaEscape.png"/>
+</widget>
