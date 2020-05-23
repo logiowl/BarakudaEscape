@@ -4,7 +4,7 @@
 	<description>
 		Help Octo the Octupus to escape the Barakuda
 	</description>
-
+	<platform name="android" />
 	<author email="info@logiowl.ca" href="https://logiowl.ca">
 	   Logi Owl Content Creator Canada Inc.
 	</author>
