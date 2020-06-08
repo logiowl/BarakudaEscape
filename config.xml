@@ -17,6 +17,6 @@
   <author href="https://logiowl.ca" email="info@logiowl.ca">
       Hardeep Shoker
   </author>
-  <icon src="barrakudaEscapeIcon.png"/>
+  <icon src="barracudaEscapeIcon.png"/>
   <platform name="android" />
   </widget>
