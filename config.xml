@@ -17,6 +17,6 @@
   <author href="https://logiowl.ca" email="info@logiowl.ca">
       Logi Owl Content Creators Canada Inc. - Dr.Sami Khiami
   </author>
-  <icon src="barracudaEscapeIcon.png"/>
+  <icon src="BarracudaEscapeIcon.png"/>
   <platform name="android" />
   </widget>
