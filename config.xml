@@ -4,14 +4,14 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ca.logiowl.barakudaescape"
     versionCode = "10"
-    version     = "1.0.0" >
+    version     = "3.0.0" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Barakuda Escape</name>
+  <name>Barracuda Escape</name>
 
   <description>
-      Help Octo the Octobus to escape the Baracuda
+      Help Octi the small octopus escaping the Barracudas
   </description>
 
   <author href="https://logiowl.ca" email="info@logiowl.ca">
