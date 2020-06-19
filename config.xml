@@ -19,6 +19,6 @@
   </author>
   <icon src="BarracudaEscapeIcon.png"/>
   <platform name="android" />
-  <platform name="ios" />
+  <platform name="winphone" />
   <preference name="android-minSdkVersion" value="28" />
   </widget>
