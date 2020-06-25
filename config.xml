@@ -4,7 +4,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ca.logiowl.barakudaescape"
     versionCode = "10"
-    version     = "3.0.0" >
+    version     = "7.0.0" >
 
 <!-- versionCode is optional and Android only -->
 
@@ -14,9 +14,7 @@
       Help Octi the small octopus escaping the Barracudas
   </description>
 
-  <author href="https://logiowl.ca" email="info@logiowl.ca">
-      Logi Owl Content Creators Canada Inc
-  </author>
+  <author href="https://logiowl.ca" email="info@logiowl.ca">Logi Owl Content Creators Canada Inc</author>
   <icon src="BarracudaEscapeIcon.png"/>
   <platform name="android" />
   <platform name="winphone" />
