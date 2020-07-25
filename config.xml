@@ -18,5 +18,5 @@
   <icon src="BarracudaEscapeIcon.png"/>
   <platform name="android" />
   <platform name="winphone" />
-  <preference name="android-minSdkVersion" value="28" />
+  <preference name="android-minSdkVersion" value="29" />
   </widget>
